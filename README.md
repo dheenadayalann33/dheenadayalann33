@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dheenadayalann33
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development & Flutter
 - 📫 How to reach me @dheenadayalann
 
 <!---
